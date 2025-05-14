@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Landing Page</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #4facfe, #00f2fe);
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            padding: 50px 20px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            background: #fff;
+            color: #00c6ff;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .download-btn:hover {
+            background: #00c6ff;
+            color: #fff;
+        }
+        img {
+            max-width: 300px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>اكتشف تطبيقنا الجديد</h1>
+        <p>تطبيق مذهل لتحسين حياتك اليومية. قم بتحميله الآن مجانًا!</p>
+        <a href="#" class="download-btn">تحميل الآن</a>
+        <br>
+        <img src="https://via.placeholder.com/300x600.png?text=App+Preview" alt="App Preview">
+    </div>
+</body>
+</html>
+# App Landing Page
+
+🚀 **Welcome to the App Landing Page Project!**
+
+This is a simple and modern landing page designed for promoting mobile or desktop applications. The design is responsive, clean, and easy to customize.
+
+## 📄 Project Contents
+- `landing.html`: The main landing page file with inline CSS styling.
+
+## 🌐 Live Demo
+Once deployed, your site will be available at:
+```
+https://your-username.github.io/app-landing-page/
+```
+
+## 🚀 How to Use
+1. Clone or download this repository.
+2. Open `landing.html` in your browser.
+3. Edit the file to customize the content, colors, links, and images.
+
+## 🚀 Deployment on GitHub Pages
+1. Go to your repository's **Settings**.
+2. Navigate to **Pages** in the sidebar.
+3. Select **Branch: main** and **/ (root)**.
+4. Click **Save**.
+5. Your page will be live at the provided URL.
+
+## 🛠️ Customization
+- **Title**: Change the `<title>` tag in the HTML.
+- **Text Content**: Edit the `<h1>`, `<p>`, and button label.
+- **Download Link**: Replace `href="#"` with your app's download link.
+- **Image**: Update the image URL to show your app preview.
+
+## 📧 Contact
+For any questions or customization requests, feel free to contact me.
+
+---
+
+Enjoy your new landing page! 🎉
